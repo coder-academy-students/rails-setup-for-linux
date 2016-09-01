@@ -34,7 +34,7 @@ Then check **Run command as login shell**.
 7. Install Ruby On Rails!
 
     ```
-    gem install rails --version=500 --no-ri --no-rdoc
+    gem install rails --version=5 --no-ri --no-rdoc
     ```
 8. Tell rvm to use this as your default (important!)
 
