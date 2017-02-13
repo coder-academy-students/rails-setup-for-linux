@@ -24,12 +24,12 @@ Then check **Run command as login shell**.
 5. Install Ruby!
 
     ```
-    rvm install 2.3.1
+    rvm install 2.4
     ```
 6. Create an area for RVM to install rails
 
     ```
-    rvm use ruby-2.3.1@rails500 --create
+    rvm use ruby-2.4@rails500 --create
     ```
 7. Install Ruby On Rails!
 
@@ -39,7 +39,7 @@ Then check **Run command as login shell**.
 8. Tell rvm to use this as your default (important!)
 
     ```
-    rvm use ruby-2.3.1@rails500 --default
+    rvm use ruby-2.4@rails500 --default
     ```
 9. Curl &  **apt-get** will get version 6 of NodeJS (it's required for some of the packages Rails uses). It will ask for your password too and enter yes for any package install questions.
 
